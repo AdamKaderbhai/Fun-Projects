@@ -199,8 +199,3 @@ public class BoomersSandwich {
                 return "Invalid entry";
         }
     }
-
-    private static double getPaymentAmount(int choice) {
-        switch (choice) {
-            case 1:
-                return
